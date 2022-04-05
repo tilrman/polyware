@@ -1,210 +1,209 @@
-        Aboleth
-        Allip
-        Aranea
-        Archon
-        Arrowhawk
-        Athach
-        Avoral
-        Azer
-        Barghest
-        Basilisk
-        Behir
-        Belker
-        Bodak
-        Bralani
-        Bugbear
-        Bulette
-        Centaur
-        Chimera
-        Choker
-        Chuul
-        Cloaker
-        Cockatrice
-        Couatl
-        Darkmantle
-        Delver
-            Babau
-            Balor
-            Bebilith
-            Dretch
-            Glabrezu
-            Hezrou
-            Marilith
-            Nalfeshnee
-            Quasit
-            Retriever
-            Succubus
-            Vrock
-        Derro
-        Destrachan
-        Devil
-            Barbed Devil (Hamatula)
-            Bearded Devil (Barbazu)
-            Bone Devil (Osyluth)
-            Chain Devil (Kyton)
-            Erinyes
-            Hellcat (Bezekira)
-            Horned Devil (Cornugon)
-            Ice Devil (Gelugon)
-            Imp
-            Lemure
-            Pit Fiend
-        Devourer
-        Digester
-        Dinosaur
-            Deinonychus
-            Elasmosaurus
-            Megaraptor
-            Triceratops
-            Tyrannosaurus
-        Doppelganger
-        Dragon
-        Drider
-        Dryad
-            Duergar
-            Drow
-        Ettercap
-        Ettin
-        Formian
-        Fungus
-            Shrieker
-        Gargoyle
-            Djinni
-            Efreeti
-            Janni
-        Ghaele
-        Ghost
-        Ghoul
-        Giant
-        Girallon
-        Gnoll
-        Gnome
-        Goblin
-        Golem
-        Gorgon
-        Grick
-        Griffon
-        Grimlock
-        Hag
-        Harpy
-        Hippogriff
-        Hobgoblin
-        Homunculus
-        Howler
-        Hydra
-            Kolyarut
-            Marut
-            Zelekhut
-        Kobold
-        Kraken
-        Krenshar
-        Lamia
-        Lammasu
-        Leonal
-        Lich
-        Lillend
-        Lizardfolk
-        Locathah
-            Werebear
-            Wereboar
-            Wererat
-            Weretiger
-            Werewolf
-        Magmin
-        Manticore
-        Medusa
-        Mephit
-        Mimic
-        Minotaur
-        Mohrg
-        Mummy
-        Naga
-            Nightcrawler
-            Nightwalker
-            Nightwing
-        Nymph
-        Ogre
-        Ooze
-        Orc
-        Otyugh
-        Owlbear
-        Pegasus
-        Phasm
-        Pseudodragon
-        Rakshasa
-        Rast
-        Ravid
-        Remorhaz
-        Roc
-        Roper
-        Sahuagin
-        Salamander
-        Satyr
-        Shadow
-        Skeleton
-        Skum
-        Spectre
-        Sphinx
-            Grig
-            Nixie
-            Pixie
-        Stirge
-        Tarrasque
-        Tendriculos
-        Thoqqua
-        Titan
-        Tojanida
-        Treant
-        Triton
-        Troglodyte
-        Troll
-        Unicorn
-        Vampire
-        Vargouille
-        Wight
-        Worg
-        Wraith
-        Wyvern
-        Xill
-        Xorn
-        Yrthak
-        Zombie
-        Ape
-        Baboon
-        Badger
-        Bat
-        Bear
-        Bison
-        Boar
-        Camel
-        Cat
-        Cheetah
-        Crocodile
-        Dog
-        Donkey
-        Eagle
-        Elephant
-        Hawk
-        Horse
-        Hyena
-        Leopard
-        Lion
-        Lizard
-        Manta Ray
-        Monkey
-        Mule
-        Octopus
-        Owl
-        Porpoise
-        Rat
-        Raven
-        Rhinoceros
-        Shark
-        Snake
-        Squid
-        Tiger
-        Toad
-        Weasel
-        Wolf
-        Wolverine
-
+aboleth
+allip
+ape
+aranea
+archon
+arrowhawk
+athach
+avoral
+azer
+babau
+baboon
+badger
+balor
+barbazu
+barghest
+basilisk
+bat
+bear
+bebilith
+behir
+belker
+bezekira
+bison
+boar
+bodak
+bralani
+bugbear
+bulette
+camel
+cat
+centaur
+cheetah
+chimera
+choker
+chuul
+cloaker
+cockatrice
+cornugon
+couatl
+crocodile
+darkmantle
+deinonychus
+delver
+derro
+destrachan
+devil
+devourer
+digester
+dinosaur
+djinni
+dog
+donkey
+doppelganger
+dragon
+dretch
+drider
+drow
+dryad
+duergar
+eagle
+efreeti
+elasmosaurus
+elephant
+erinyes
+ettercap
+ettin
+formian
+fungus
+gargoyle
+gelugon
+ghaele
+ghost
+ghoul
+giant
+girallon
+glabrezu
+gnoll
+gnome
+goblin
+golem
+gorgon
+grick
+griffon
+grig
+grimlock
+hag
+hamatula
+harpy
+hawk
+hezrou
+hippogriff
+hobgoblin
+homunculus
+horse
+howler
+hydra
+hyena
+imp
+janni
+kobold
+kolyarut
+kraken
+krenshar
+kyton
+lamia
+lammasu
+lemure
+leonal
+leopard
+lich
+lillend
+lion
+lizard
+lizardfolk
+locathah
+magmin
+manta ray
+manticore
+marilith
+marut
+medusa
+megaraptor
+mephit
+mimic
+minotaur
+mohrg
+monkey
+mule
+mummy
+naga
+nalfeshnee
+nightcrawler
+nightwalker
+nightwing
+nixie
+nymph
+octopus
+ogre
+ooze
+orc
+osyluth
+otyugh
+owl
+owlbear
+pegasus
+phasm
+pit fiend
+pixie
+porpoise
+pseudodragon
+quasit
+rakshasa
+rast
+rat
+raven
+ravid
+remorhaz
+retriever
+rhinoceros
+roc
+roper
+sahuagin
+salamander
+satyr
+shadow
+shark
+shrieker
+skeleton
+skum
+snake
+spectre
+sphinx
+squid
+stirge
+succubus
+tarrasque
+tendriculos
+thoqqua
+tiger
+titan
+toad
+tojanida
+treant
+triceratops
+triton
+troglodyte
+troll
+tyrannosaurus
+unicorn
+vampire
+vargouille
+vrock
+weasel
+werebear
+wereboar
+wererat
+weretiger
+werewolf
+wight
+wolf
+wolverine
+worg
+wraith
+wyvern
+xill
+xorn
+yrthak
+zelekhut
+zombie
