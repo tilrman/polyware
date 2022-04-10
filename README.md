@@ -2,7 +2,8 @@
 Generate passphrases using polyhedral dice
 
 ## Introduction
-Douglas Muth's Diceware uses five six-sided dice to generate one word of 
+
+Arnold G. Reinhold's Diceware (https://theworld.com/~reinhold/diceware.html) uses five six-sided dice to generate one word of 
 a passphrase. Polyware uses polyhedral dice to generate an entire 
 fantastical sentence!
 
